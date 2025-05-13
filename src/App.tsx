@@ -17,6 +17,7 @@ function App() {
         <p>Dev/login branch commit 1</p>
         <p>Dev/login branch commit 2</p>
       </div>
+      <p>random commit</p>
     </>
   )
 }
