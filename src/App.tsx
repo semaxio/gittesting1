@@ -9,6 +9,9 @@ function App() {
         <p>First commit</p>
         <p>Second commit</p>
       </div>
+      <div>
+        <h2>Dev branch created</h2>
+      </div>
     </>
   )
 }
