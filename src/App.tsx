@@ -11,6 +11,7 @@ function App() {
       </div>
       <div>
         <h2>Dev branch created</h2>
+        <span>dev</span>
       </div>
     </>
   )
